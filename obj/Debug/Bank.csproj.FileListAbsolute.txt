@@ -1,0 +1,7 @@
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\bin\Debug\Bank.exe.config
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\bin\Debug\Bank.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\bin\Debug\Bank.pdb
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\obj\Debug\Bank.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Bank\obj\Debug\Bank.pdb
